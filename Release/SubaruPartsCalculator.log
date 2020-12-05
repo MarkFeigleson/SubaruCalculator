@@ -1,6 +1,7 @@
 ﻿  SubaruPartsCalculator.cpp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  55 of 86 functions (64.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   SubaruPartsCalculator.vcxproj -> D:\CProjects\SubaruPartsCalculator\Release\SubaruPartsCalculator.exe

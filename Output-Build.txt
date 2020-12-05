@@ -1,0 +1,10 @@
+﻿Build started...
+------ Build started: Project: SubaruPartsCalculator, Configuration: Release Win32 ------
+SubaruPartsCalculator.cpp
+Generating code
+55 of 86 functions (64.0%) were compiled, the rest were copied from previous compilation.
+  2 functions were new in current compilation
+  8 functions had inline decision re-evaluated but remain unchanged
+Finished generating code
+SubaruPartsCalculator.vcxproj -> D:\CProjects\SubaruPartsCalculator\Release\SubaruPartsCalculator.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

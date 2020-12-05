@@ -1,0 +1,2 @@
+D:\CProjects\SubaruPartsCalculator\Debug\SubaruPartsCalculator.exe
+D:\CProjects\SubaruPartsCalculator\Debug\SubaruPartsCalculator.pdb
